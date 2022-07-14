@@ -1,0 +1,4 @@
+# [Title]
+---
+author: John Doe
+---
